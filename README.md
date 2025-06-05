@@ -72,7 +72,7 @@
 <p align="center">
   ![GitHub Workflow Status](https://github.com/harshada-javeri/your-repo-name/actions/workflows/main.yml/badge.svg)
 </p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada-javeri&theme=dracula" alt="Contribution Graph"/>
 ---
 
 ### 📘 Featured Projects
@@ -86,7 +86,7 @@
 
 ### 🎯 Fun Facts
 
-- 🏆 Proud first-gen female engineer  
+- 🏆 First-gen female engineer  
 - 🧘 Yoga, journaling & tech podcasts fuel my mornings  
 - 🌻 Passionate about mentoring juniors & building scalable automation  
 
