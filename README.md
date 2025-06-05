@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshada Javeri</h1>
-<h3 align="center">Software Development Engineer in Test | Automation | Python Dev | System Design | Tech Storyteller</h3>
+<h3 align="center">Software Development Engineer | Automation | Python Dev | System Design | Tech Storyteller</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshada-javeri/" target="_blank">
@@ -79,6 +79,6 @@
 
 ### 📌 Let's Collaborate!
 If you’re into open-source, fintech automation, or making quality testing frameworks better — let's talk! 😊  
-Drop me a message on [LinkedIn](https://www.linkedin.com/in/harshada-javeri/) or [email](mailto:your.email@example.com).
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/harshada-javeri/) or [email](mailto: adacodes@proton.me).
 
 ---
