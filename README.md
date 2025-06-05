@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshada Javeri</h1>
-<h3 align="center">SDET | Python Dev | Fintech Specialist | Tech Storyteller</h3>
+<h3 align="center">Software Development Engineer in Test | Automation | Python Dev | System Design | Tech Storyteller</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshada-javeri/" target="_blank">
@@ -17,7 +17,7 @@
 
 ### 💁‍♀️ About Me
 
-- 🔬 Software Development Engineer in Test with 5+ years in Automation and AI Space 
+- 🔬 Software Development Engineer with 6+ years in Automation and AI Space 
 - 🧪 Building automation frameworks in Python, Playwright, Selenium  
 - 📊 Skilled in DB testing, data validations (DB2, Snowflake, Pandas)  
 - 🌱 Currently exploring GenAI, LLM apps, and Prompt Engineering  
