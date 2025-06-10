@@ -8,8 +8,8 @@
   <a href="mailto:adacodes@proton.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://medium.com/@harshada_javeri" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Blog-12100E?style=flat-square&logo=medium&logoColor=white" alt="Blog" />
+  <a href="https://www.threads.net/@harshada_javeri" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
 
