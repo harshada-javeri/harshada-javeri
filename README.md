@@ -68,9 +68,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshada-javeri&theme=radical" alt="Contribution Graph" width="90%" />
 </p>
-
 <p align="center">
-  ![GitHub Workflow Status](https://github.com/harshada-javeri/your-repo-name/actions/workflows/main.yml/badge.svg)
+  ![GitHub Workflow Status](https://github.com/harshada-javeri/harshada-javeri/actions/workflows/ci.yml/badge.svg)
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada-javeri&theme=dracula" alt="Contribution Graph"/>
 ---
