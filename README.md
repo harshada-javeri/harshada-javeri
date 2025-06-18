@@ -65,10 +65,6 @@
   <img src="https://github.com/harshada-javeri.png" alt="Harshada Javeri's GitHub profile photo" width="100" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshada-javeri&theme=radical" alt="Contribution Graph" width="90%" />
-</p>
-
 ### 📘 Featured Projects
 
 - **🧠 GenAI Practice** — Prompt Engineering, LLMs, OpenAI APIs  
