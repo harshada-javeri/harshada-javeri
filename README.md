@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harshada Javeri</h1>
-<h3 align="center">Software Development Engineer | Automation | Python Dev | System Design | Tech Storyteller</h3>
+<h3 align="center">Software Development Engineer | Automation | System Design | Tech Storyteller</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshada-javeri-ai-ml-automation/" target="_blank" rel="noopener noreferrer">
@@ -69,16 +69,13 @@
 
 - **🧠 GenAI Practice** — Prompt Engineering, LLMs, OpenAI APIs  
 - **📊 Stock Price Dashboard** — Big Tech Stocks visualization & prediction  
-- **🧪 Automation Daily** — Handy scripts for Threads cleanup, Insta follower comparison, scraping  
-- **🌱 100 Days of Code** — My daily journey coding in Python & JavaScript  
-
 ---
 
 ### 🎯 Fun Facts
 
+- 🌻 I love building stuff
 - 🏆 First-gen female engineer  
-- 🧘 Yoga, journaling & tech podcasts fuel my mornings  
-- 🌻 Passionate about mentoring juniors & building scalable automation  
+- 🧘 Fitness, journaling & tech podcasts fuel my mornings  
 
 ---
 
