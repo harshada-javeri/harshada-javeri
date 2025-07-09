@@ -1,16 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Harshada Javeri</h1>
 <h3 align="center">Software Development Engineer | Automation | System Design | Tech Storyteller</h3>
 
+## 🌐 Connect with Me
+
 <p align="center">
+  <a href="https://www.linkedin.com/in/harshada-javeri-ai-ml-automation" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adacodes@proton.me" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:harshada.javeri@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.threads.net/@ada_codes_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
+
+---
 
 ---
 <p align="center">
