@@ -17,11 +17,6 @@
 
 ---
 
----
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-</p>
-
 ### 💁‍♀️ About Me
 
 - 🧠 ML Engineer with 6+ years in AI, GenAI, and Intelligent Automation  
@@ -108,9 +103,4 @@
 ### 📌 Let's Collaborate!
 
 If you're into GenAI, LLM applications, ML engineering, or intelligent automation — let's connect! 😊  
-Reach out on [LinkedIn](https://www.linkedin.com/in/harshada-javeri-ai-ml-automation/) or drop me an [email](mailto:adacodes@proton.me).
-
----
-<p align="center">
-  <img src="assets/motivation.jpg" alt="motivation" width="100%" />
-</p>
+Reach out on [LinkedIn](https://www.linkedin.com/in/harshada-javeri-ai-ml-automation/) or drop me an [email](mailto:harshada.javeri@gmail.com).
