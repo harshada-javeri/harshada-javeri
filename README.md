@@ -1,106 +1,174 @@
-<h1 align="center">Hi there 👋, I'm Harshada Javeri</h1>
-<h3 align="center">ML Engineer | AI/LLM Specialist | Automation Expert | Tech Storyteller</h3>
+<h1 align="center">Harshada Javeri</h1>
 
-## 🌐 Connect with Me
+<h3 align="center">
+Applied AI Engineer • AI Reliability • Agent Systems • ML Platform Engineering
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshada-javeri-ai-ml-automation" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshada.javeri@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.threads.net/@ada_codes_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
-  </a>
+Building production-grade AI systems that are scalable, observable, and trustworthy.
 </p>
 
 ---
 
-### 💁‍♀️ About Me
+## About Me
 
-- 🧠 ML Engineer with 6+ years in AI, GenAI, and Intelligent Automation  
-- 🤖 Specialized in LLM applications, prompt engineering, and AI model deployment  
-- 📊 Expert in data processing with Python, Pandas, and database systems (DB2, Snowflake)  
-- 🔬 Building scalable automation frameworks leveraging AI/ML technologies  
-- 🌱 Passionate about GenAI, RAG systems, and cutting-edge ML engineering practices  
-- ✍️ Tech storyteller — simplifying complex AI concepts through blogs, talks & workshops  
----
+I am a Senior Applied AI Engineer with 7 years of experience spanning machine learning, software engineering, intelligent automation, and AI platform development.
 
-### 💼 Tech Stack
+My work focuses on building and evaluating production AI systems, with particular interest in:
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+* Agentic AI Systems
+* LLM Evaluation & Benchmarking
+* AI Reliability Engineering
+* Production ML Platforms
+* AI Governance & Safety
+* Model Observability
+* Enterprise AI Deployment
 
-#### ML/AI & LLM Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+I enjoy operating at the intersection of:
 
-#### Automation & Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=flat-square&logo=pytest&logoColor=white)
-
-#### Databases
-![DB2](https://img.shields.io/badge/IBM_DB2-003366?style=flat-square&logo=ibm&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-#### DevOps & Deployment
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+**AI Research × Engineering × Product × Deployment**
 
 ---
 
-### 🔥 GitHub Stats & Activity
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshada-javeri&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada-javeri&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-</p>
+### Agentic AI & LLM Systems
 
-<p align="center">
-  <img src="https://github.com/harshada-javeri.png" alt="Harshada Javeri's GitHub profile photo" width="100" style="border-radius:50%;" />
-</p>
+* Multi-agent orchestration
+* RAG architectures
+* Tool-using AI agents
+* LangGraph & CrewAI systems
+* Agent evaluation frameworks
+* Behavioral consistency testing
 
-### 📘 Featured Projects
+### AI Reliability Engineering
 
-- **🧠 GenAI Practice** — Prompt Engineering, LLMs, RAG systems, OpenAI APIs & fine-tuning  
-- **🤖 AI-Powered Automation** — Intelligent automation frameworks using ML & NLP  
-- **📊 Stock Price Dashboard** — ML-driven Big Tech stocks visualization & prediction models  
-- **💡 LLM Applications** — Building production-ready LLM applications with LangChain & vector databases  
+* Model validation pipelines
+* Drift detection
+* Inference monitoring
+* Reproducibility testing
+* Deployment quality gates
+* AI observability
 
----
+### Applied AI Platforms
 
-### 🎯 Core Competencies
-
-- **Machine Learning:** Supervised/Unsupervised Learning, Feature Engineering, Model Optimization
-- **LLM & Generative AI:** Prompt Engineering, Fine-tuning, RAG, Retrieval Systems
-- **Data Engineering:** ETL pipelines, data validation, large-scale data processing
-- **AI-Driven Testing:** Intelligent test automation, anomaly detection, predictive analytics
-- **System Design:** Scalable ML pipelines, microservices, production deployment
-
----
-
-### 🎯 Fun Facts
-
-- 🌻 I love building stuff — especially intelligent systems
-- 🏆 First-gen female engineer in tech  
-- 🧠 Obsessed with ML & AI research papers
-- 🧘 Fitness, journaling & tech podcasts fuel my mornings  
+* Production ML workflows
+* Evaluation infrastructure
+* Enterprise AI systems
+* MLOps and CI/CD
+* Compliance-aware AI systems
+* Governance and auditability
 
 ---
 
-### 📌 Let's Collaborate!
+## Technical Expertise
 
-If you're into GenAI, LLM applications, ML engineering, or intelligent automation — let's connect! 😊  
-Reach out on [LinkedIn](https://www.linkedin.com/in/harshada-javeri-ai-ml-automation/) or drop me an [email](mailto:harshada.javeri@gmail.com).
+### AI & Agent Systems
+
+Python • LLMs • RAG • LangGraph • LangChain • CrewAI • Multi-Agent Systems • AI Evaluation • LLM Benchmarking • AI Safety • AI Governance
+
+### Machine Learning
+
+Scikit-Learn • NLP • Classification • Anomaly Detection • Feature Engineering • Explainable AI • Model Monitoring
+
+### MLOps & Infrastructure
+
+MLflow • Docker • Kubernetes • GitHub Actions • Jenkins • AWS • CI/CD • Experiment Tracking
+
+### Observability
+
+Prometheus • Grafana • Drift Detection • Inference Monitoring • Reliability Metrics
+
+### Data & Backend
+
+SQL • PostgreSQL • Snowflake • IBM DB2 • REST APIs
+
+---
+
+## Selected Projects
+
+### Multi-Agent LLM Evaluation System
+
+Built an evaluation and observability platform for agentic systems that:
+
+* Tracks agent behavior across runs
+* Detects failure patterns and regressions
+* Measures consistency and reliability
+* Supports large-scale benchmarking
+
+**Tech:** Python, LangGraph, CrewAI, OpenAI APIs, AgentOps, MLflow
+
+---
+
+### Pi-Bench: Policy Intelligence Benchmark
+
+Designed a benchmarking framework for evaluating policy adherence in agentic AI systems.
+
+Capabilities include:
+
+* Tool-call validation
+* Escalation verification
+* Safety policy enforcement
+* Deterministic evaluation workflows
+* Compliance-focused testing
+
+---
+
+### ML Reliability & Observability Platform
+
+Built validation pipelines and monitoring systems for production ML models.
+
+Focus areas:
+
+* Drift detection
+* Latency monitoring
+* Reproducibility checks
+* Deployment validation
+* Automated quality gates
+
+---
+
+## Professional Interests
+
+* Applied AI Engineering
+* Forward Deployed AI
+* Agent Infrastructure
+* AI Reliability Engineering
+* AI Safety & Governance
+* Evaluation Systems
+* Production LLM Applications
+* Human-AI Collaboration
+
+---
+
+## Philosophy
+
+The next generation of AI systems will not be won by larger models alone.
+
+They will be won by teams that can build systems that are:
+
+* Reliable
+* Observable
+* Auditable
+* Safe
+* Useful in production
+
+I enjoy building the infrastructure and evaluation systems that make this possible.
+
+---
+
+## Connect
+
+📧 [harshada.javeri@gmail.com](mailto:harshada.javeri@gmail.com)
+
+💼 LinkedIn:
+linkedin.com/in/harshada-javeri-mle
+
+💻 GitHub:
+github.com/harshada-javeri
+
+---
+
+Open to discussions around:
+
+Applied AI • Forward Deployed Engineering • Agent Systems • AI Infrastructure • LLM Evaluation • AI Reliability
