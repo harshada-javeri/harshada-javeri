@@ -1,174 +1,48 @@
-<h1 align="center">Harshada Javeri</h1>
-
-<h3 align="center">
-Applied AI Engineer • AI Reliability • Agent Systems • ML Platform Engineering
-</h3>
-
-<p align="center">
-Building production-grade AI systems that are scalable, observable, and trustworthy.
-</p>
-
+# Harshada Javeri
+### Senior Applied AI & ML Platform Engineer
+> Building production-grade AI systems that are scalable, observable, and alignment-verified.
 ---
-
-## About Me
-
-I am a Senior Applied AI Engineer with 7 years of experience spanning machine learning, software engineering, intelligent automation, and AI platform development.
-
-My work focuses on building and evaluating production AI systems, with particular interest in:
-
-* Agentic AI Systems
-* LLM Evaluation & Benchmarking
-* AI Reliability Engineering
-* Production ML Platforms
-* AI Governance & Safety
-* Model Observability
-* Enterprise AI Deployment
-
-I enjoy operating at the intersection of:
-
-**AI Research × Engineering × Product × Deployment**
-
+```yaml
+# developer_spec.yaml
+identity:
+  name: Harshada Javeri
+  role: Senior Applied AI Engineer (7 YOE)
+  specialization: Agent Systems, LLM Evals, & ML Platforms
+telemetry:
+  orchestration: [LangGraph, State-Machines, Multi-Agent Loops, Tool-calling]
+  reliability:   [Continuous Evals, Drift Detection, Guardrails, Policy Adherence]
+  infrastructure:  [Kubernetes, Docker, MLflow, AWS, CI/CD]
+  observability:   [Prometheus, Grafana, Latency p99, Telemetry Metrics]
+```
 ---
-
-## Current Focus
-
-### Agentic AI & LLM Systems
-
-* Multi-agent orchestration
-* RAG architectures
-* Tool-using AI agents
-* LangGraph & CrewAI systems
-* Agent evaluation frameworks
-* Behavioral consistency testing
-
-### AI Reliability Engineering
-
-* Model validation pipelines
-* Drift detection
-* Inference monitoring
-* Reproducibility testing
-* Deployment quality gates
-* AI observability
-
-### Applied AI Platforms
-
-* Production ML workflows
-* Evaluation infrastructure
-* Enterprise AI systems
-* MLOps and CI/CD
-* Compliance-aware AI systems
-* Governance and auditability
-
+## 🎯 Core Focus
+### 🤖 Agent Systems & Reliability
+* **Production Orchestration**: Designing custom multi-agent loops, stateful graphs (LangGraph), and resilient tool-calling mechanisms.
+* **Deterministic Evals**: Building framework-level safety gates, verification loops, and drift monitoring to tame stochastic model behavior.
+* **Observability**: Scaling inference telemetry, anomaly detection, and regression testing for high-throughput AI workloads.
+### ⚙️ ML Platform & Infrastructure
+* **MLOps**: Automated model validation, pipeline orchestration, and experiment tracking.
+* **Infrastructure**: Architecting containerized, cloud-native deployments with robust CI/CD quality gates.
 ---
-
-## Technical Expertise
-
-### AI & Agent Systems
-
-Python • LLMs • RAG • LangGraph • LangChain • CrewAI • Multi-Agent Systems • AI Evaluation • LLM Benchmarking • AI Safety • AI Governance
-
-### Machine Learning
-
-Scikit-Learn • NLP • Classification • Anomaly Detection • Feature Engineering • Explainable AI • Model Monitoring
-
-### MLOps & Infrastructure
-
-MLflow • Docker • Kubernetes • GitHub Actions • Jenkins • AWS • CI/CD • Experiment Tracking
-
-### Observability
-
-Prometheus • Grafana • Drift Detection • Inference Monitoring • Reliability Metrics
-
-### Data & Backend
-
-SQL • PostgreSQL • Snowflake • IBM DB2 • REST APIs
-
----
-
-## Selected Projects
-
-### Multi-Agent LLM Evaluation System
-
-Built an evaluation and observability platform for agentic systems that:
-
-* Tracks agent behavior across runs
-* Detects failure patterns and regressions
-* Measures consistency and reliability
-* Supports large-scale benchmarking
-
-**Tech:** Python, LangGraph, CrewAI, OpenAI APIs, AgentOps, MLflow
-
----
-
+## 🚀 Selected Work
+### Multi-Agent Evaluation & Observability Platform
+Built a framework to trace, benchmark, and monitor complex agentic systems.
+* **Impact**: Enabled automated regression detection, tracked state transitions, and enforced behavioral consistency across model updates.
+* **Tech**: Python, LangGraph, CrewAI, MLflow, AgentOps
 ### Pi-Bench: Policy Intelligence Benchmark
-
-Designed a benchmarking framework for evaluating policy adherence in agentic AI systems.
-
-Capabilities include:
-
-* Tool-call validation
-* Escalation verification
-* Safety policy enforcement
-* Deterministic evaluation workflows
-* Compliance-focused testing
-
+Designed a compliance-focused benchmarking framework for evaluating safety and policy adherence in agentic workflows.
+* **Impact**: Automated tool-call validation, verified boundary conditions, and escalation pathways verification.
+### Production ML Reliability Platform
+Engineered drift detection and latency tracking pipelines for enterprise ML deployments.
+* **Impact**: Reduced post-deployment incidents by establishing automated quality gates and real-time model telemetry.
 ---
-
-### ML Reliability & Observability Platform
-
-Built validation pipelines and monitoring systems for production ML models.
-
-Focus areas:
-
-* Drift detection
-* Latency monitoring
-* Reproducibility checks
-* Deployment validation
-* Automated quality gates
-
+## 🛠️ Tech Stack
+* **AI & Agent Engineering**: Python • LLMs • RAG • LangGraph • CrewAI • LLM Benchmarking • Safety Guardrails
+* **Core ML & Science**: Scikit-Learn • NLP • Classification • Drift Detection • Feature Engineering
+* **Infra & MLOps**: Docker • Kubernetes • MLflow • AWS • GitHub Actions • Jenkins
+* **Observability & Data**: Prometheus • Grafana • SQL • PostgreSQL • Snowflake • REST APIs
 ---
-
-## Professional Interests
-
-* Applied AI Engineering
-* Forward Deployed AI
-* Agent Infrastructure
-* AI Reliability Engineering
-* AI Safety & Governance
-* Evaluation Systems
-* Production LLM Applications
-* Human-AI Collaboration
-
----
-
-## Philosophy
-
-The next generation of AI systems will not be won by larger models alone.
-
-They will be won by teams that can build systems that are:
-
-* Reliable
-* Observable
-* Auditable
-* Safe
-* Useful in production
-
-I enjoy building the infrastructure and evaluation systems that make this possible.
-
----
-
-## Connect
-
-📧 [harshada.javeri@gmail.com](mailto:harshada.javeri@gmail.com)
-
-💼 LinkedIn:
-linkedin.com/in/harshada-javeri-mle
-
-💻 GitHub:
-github.com/harshada-javeri
-
----
-
-Open to discussions around:
-
-Applied AI • Forward Deployed Engineering • Agent Systems • AI Infrastructure • LLM Evaluation • AI Reliability
+## 📬 Connect
+* **Email**: [harshada.javeri@gmail.com](mailto:harshada.javeri@gmail.com)
+* **LinkedIn**: [linkedin.com/in/harshada-javeri-mle](https://linkedin.com/in/harshada-javeri-mle)
+* **GitHub**: [github.com/harshada-javeri](https://github.com/harshada-javeri)
